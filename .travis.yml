@@ -1,0 +1,4 @@
+language: npm
+rvm:
+ - 8.11.1
+ - node
